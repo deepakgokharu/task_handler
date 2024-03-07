@@ -1,0 +1,21 @@
+.taskParentContainer {
+	display: flex;
+	width: 100vw;
+	flex-direction: column;
+}
+
+.taskContainer {
+	width: 100%;
+}
+
+.Pending {
+	border: 10px solid yellow;
+}
+
+.OnHold {
+	border: 10px solid grey;
+}
+
+.Completed {
+	border: 10px solid rgb(57, 255, 57);
+}

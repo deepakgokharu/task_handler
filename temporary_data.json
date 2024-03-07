@@ -1,0 +1,26 @@
+[
+	{
+		"title": "First Task",
+		"description": "This is first task",
+		"time_of_entry": "2024-03-04 18:18:00",
+		"expiry_time": "2024-03-11 18:18:00",
+		"status": "Pending",
+		"priority": "Low"
+	},
+	{
+		"title": "Second Task",
+		"description": "This is second task",
+		"time_of_entry": "2024-03-04 18:18:00",
+		"expiry_time": "2024-03-11 18:18:00",
+		"status": "Pending",
+		"priority": "Low"
+	},
+	{
+		"title": "Third Task",
+		"description": "This is third task",
+		"time_of_entry": "2024-03-04 18:18:00",
+		"expiry_time": "2024-03-11 18:18:00",
+		"status": "Pending",
+		"priority": "Low"
+	}
+]

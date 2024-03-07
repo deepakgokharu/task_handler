@@ -1,0 +1,18 @@
+.titleRow {
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 2vw;
+}
+.descriptionRow {
+	margin: 0px 2vw;
+}
+.priorityRow {
+	margin: 0px 2vw;
+	display: flex;
+}
+.priorityDiv {
+	flex: 1;
+}
+.expiryDateDiv {
+	flex: 1;
+}
