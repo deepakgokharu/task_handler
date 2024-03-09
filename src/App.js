@@ -6,7 +6,7 @@ function App() {
 		<div className="App">
 			<Router>
 				<Routes>
-					<Route exact path="/homepage" element={<Homepage />} />
+					<Route exact path="*" element={<Homepage />} />
 					<Route path="*" element={<h1>Wrong page</h1>} />
 				</Routes>
 			</Router>
