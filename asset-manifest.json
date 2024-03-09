@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task_handler/static/css/main.08f0d047.css",
-    "main.js": "/task_handler/static/js/main.3e8d0127.js",
-    "static/js/453.dcba089e.chunk.js": "/task_handler/static/js/453.dcba089e.chunk.js",
-    "index.html": "/task_handler/index.html",
-    "main.08f0d047.css.map": "/task_handler/static/css/main.08f0d047.css.map",
-    "main.3e8d0127.js.map": "/task_handler/static/js/main.3e8d0127.js.map",
-    "453.dcba089e.chunk.js.map": "/task_handler/static/js/453.dcba089e.chunk.js.map"
+    "main.css": "/deepakgokharu.github.io/task_handler/static/css/main.08f0d047.css",
+    "main.js": "/deepakgokharu.github.io/task_handler/static/js/main.22041dcb.js",
+    "static/js/453.dcba089e.chunk.js": "/deepakgokharu.github.io/task_handler/static/js/453.dcba089e.chunk.js",
+    "index.html": "/deepakgokharu.github.io/task_handler/index.html",
+    "main.08f0d047.css.map": "/deepakgokharu.github.io/task_handler/static/css/main.08f0d047.css.map",
+    "main.22041dcb.js.map": "/deepakgokharu.github.io/task_handler/static/js/main.22041dcb.js.map",
+    "453.dcba089e.chunk.js.map": "/deepakgokharu.github.io/task_handler/static/js/453.dcba089e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f0d047.css",
-    "static/js/main.3e8d0127.js"
+    "static/js/main.22041dcb.js"
   ]
 }
