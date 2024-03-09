@@ -41,7 +41,6 @@ export default function AddTaskModal(props) {
 				expiryDatetime: expiryDatetime,
 				status: status,
 			};
-			alert("coming here");
 			handleSaveAndCloseAddTaskModal(createNewTask(details));
 		}
 	};
