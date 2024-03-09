@@ -1,7 +1,7 @@
 {
+	"homepage": "deepakgokharu.github.io/task_handler",
 	"name": "tasks_handler",
 	"version": "0.1.0",
-	"homepage": "https://deepakgokharu.github.io/task_handler",
 	"private": true,
 	"dependencies": {
 		"@ant-design/icons": "^5.3.1",
